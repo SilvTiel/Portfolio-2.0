@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/navigatie.css">
+</head>
+<body>
+   <main>
+        <div class="logo">
+            <a href="/index.php"><img src="/afbeeldingen/Logo.png"></a>
+        </div>
+        <div class="hamburger">
+            <button class="toggle-overlay"><img src="/afbeeldingen/Menu.png" class="menu-img"></button>
+        </div>
+        
+    </main>
+    <aside>
+        <div class="outer-close toggle-overlay">
+          <a class="close"><span></span></a>
+        </div>
+        <nav>
+          <ul>
+            <li><a href="/index.php">Home</a></li>
+            <li><a href="/leeruitkomsten.php">leeruitkomsten</a></li>
+            <li><a href="#!">Over mij</a></li>
+          </ul>
+        </nav>
+      </aside>
+      <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+        <script> 
+        $(function(){
+            $('.toggle-overlay').click(function(){
+            $('aside').toggleClass('open');
+        })
+    })
+</script>
+</body>
+</html>
+

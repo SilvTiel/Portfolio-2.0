@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    margin:0px
+}
+.intro{
+    background-image: url("afbeeldingen/SilAlpen.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 85vh;
+    margin:0px;
+    padding:0px;
+    position:relative;
+}
+.head-logo{
+    background-image: url(/afbeeldingen/Logo.png);
+
+}
+
+.head-tekst-mid{
+    top:50%;
+    left: 50%;
+    position:absolute;
+    transform:translate(-50%, -50%);
+    background-color: white;
+    padding: 10px 25px;
+    font-family:'Dela Gothic One', cursive;
+    font-size:4rem;
+}
+.grid-main{
+    display:grid;
+    grid-template-columns: 66% 34%;
+}
+.grid-mid{
+    grid-column: 1;
+}
+.grid-right{
+    grid-column:2;
+     height:1000px;
+    background-color:black;
+    color:white;
+}
+.head-over-mij{
+    padding:80px;
+    font-family: 'Open Sans', sans-serif;
+    padding-right: 250px;
+    font-size:1rem;
+}
+.head-over-mij h1{
+    font-family: 'Dela Gothic One', cursive;
+    font-size:2rem;
+}
+.knop1{
+    margin:100px;
+    font-size:1rem;
+    font-family: 'Open Sans', sans-serif;
+}
+.leerdoelen-main{
+    height: 100px;
+    padding:0px;
+    text-align:center;
+    font-size:3rem;
+}
+.img{
+    width:400px;
+    margin-top:100px;
+    margin-left:-150px;
+}

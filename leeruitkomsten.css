@@ -1,0 +1,80 @@
+body{
+    background-color:#F7F7F7;
+}
+
+.button{
+    background-color:red;
+    background-image: linear-gradient(to right, #1F1F1F, #A09C9C);
+    border:none;
+    color:white;
+    padding:15px 32px;
+    text-decoration:none;
+    cursor:pointer;
+    text-align:center;
+    width:25%;
+    margin:auto;
+    font-weight:bold;
+    border-radius: 50px;
+}
+
+.header{
+    background-image: url("/afbeeldingen/ld-banner.png");
+    height:30vh;
+    margin:0px;
+    position:relative;
+    display:block;
+    background-size:100%;
+    background-repeat: no-repeat;
+    
+}
+
+.tekst-intro{
+    top:50%;
+    left: 50%;
+    position:absolute;
+    transform:translate(-50%, -50%);
+    background-color: white;
+    padding: 10px 25px;
+    font-family:'Dela Gothic One', cursive;
+    font-size:3rem;
+}
+
+.main{
+    margin:50px 100px;
+}
+/* */
+.container{
+    display:grid;
+    grid-template-columns:50% 50%;
+}
+.links{
+    margin-right: 15px;
+}
+.rechts{
+    margin-left: 15px;
+}
+/*Container Tekst*/
+.container-kop-tekst{
+    font-family:'Dela Gothic One', cursive;
+    text-decoration:underline;
+    font-size:2rem;
+}
+.container-tekst{
+    font-family:'Open Sans', sans-serif;
+    background-color:white;
+    padding:5px;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+.container-tekst a{
+    text-decoration:none;
+    color:black;
+}
+.container-tekst-kop{
+    font-weight:bold;
+    font-size:1.25rem;
+    cursor:pointer;
+}
+.container-tekst-tekst{
+    display:none;
+}

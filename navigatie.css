@@ -1,0 +1,148 @@
+
+.logo img{
+  width:150px;
+  position:absolute;
+  left:0px;
+  top:0px;
+}
+
+.logo img:hover{
+  width:175px;
+}
+
+
+.hamburger{
+  border:none;
+}
+.menu-img{
+  width:50px;
+  right:15px;
+  top:15px;
+  border:none;
+  position:fixed;
+  box-shadow:4px 4px 15px gray;
+  border-radius:25px;
+}
+
+h1{
+  font-size:3em;
+  font-weight: 300;
+  color:black;
+  margin:0 0 10px;
+}
+aside{
+  position: fixed;
+  width:100%;
+  height:100%;
+  top:0;
+  left:0;
+  background:linear-gradient(200deg, #3f3d46, #1e1e1f, #202020);
+  opacity: 0;
+  visibility: hidden;
+
+  z-index:2;
+}
+.open{
+  opacity: 1;
+  visibility: visible;
+}
+
+nav{
+  text-align: center;
+  height:95vh;
+  display: flex;
+  flex-direction:column;
+  -webkit-box-pack:center;
+  justify-content:center;
+}
+ 
+nav ul{
+  margin:0;
+  padding:0;
+  list-style: none;
+}
+
+nav ul li{
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-flex: 1;
+  flex:1;
+  line-height:20vh;
+}
+nav ul li a{
+  font-size:3em;
+  -webkit-transition:all 0.5s ease;
+  transition:all 0.5s ease;
+  display:block;
+  text-decoration: none;
+  color:white;
+}
+nav ul li a:hover{
+  color:white;
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+nav ul li a:hover:before{
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+nav ul li a:before{
+  content:'';
+  position: absolute;
+  width:50%;
+  height:2px;
+  bottom:0;
+  left:25%;
+  background:white;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition:all 0.3s ease-in-out 0s;
+  transition:all 0.3s ease-in-out 0s;
+}
+button{
+  background:transparent;
+  cursor: pointer;
+  text-decoration: none;
+  border:none;
+}
+
+.close{
+  position: fixed;
+  top:40px;
+  right:60px;
+  color:white;
+  z-index:3;
+  cursor: pointer;
+}
+.close span,
+.close span:before,
+.close span:after{
+  border-radius: 4px;
+  height:5px;
+  width:35px;
+  background:white;
+  position: absolute;
+  display: block;
+  content:'';
+}
+.close span{
+  background:transparent;
+}
+.close span:before{
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.close span:after{
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+.outer-close{
+  position: absolute;
+  right:0;
+  top:0;
+  width:85px;
+  height:85px;
+  cursor: pointer;
+}
