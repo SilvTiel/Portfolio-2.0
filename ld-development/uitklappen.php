@@ -24,18 +24,25 @@
         <div class="container">
             <div class="tekst left">
                 <h1>Uitleg</h1>
-                <p>Op de pagina van leerdoelen wou ik in eerste instantie niet zoveel tekst hebben staan, maar wou het wel duidelijk maken voor de gebruker waar het over gaat. Daarom heb ik ervoor gekozen om de kopjes uit te kunnen klappen. Dit om ervoor te zorgen dat er een extra uitleg komt te staan bij de kopjes. Hierbij kwam het idee met als ik op de balk klik van de titel van dat kopje dat je de rest van de tekst ziet verschijnen met een knop erbij die dan weer lijdt neer een andere pagina waar het alleen maar over dat onderwerp gaat. </p>
+                <p>Op de website van mijn portfolio heb ik een leerdoelen pagina, via deze pagina wil ik dat je naar de verschillende onderdelen kan op mijn portfolio. Ik wilde deze pagina graag rustig houden met niet al te veel tekst als je op deze pagina komt. Toen kwam het idee om de tekstbalk uit te klappen wanneer men hierop drukt. Hier krijg je dan extra uitleg over het kopje en krijg je een knop om verder te gaan naar een volgende pagina. </p>
             </div>
             <div class="foto right">
                 <img src="/afbeeldingen/development/uitklappen1.png">
             </div>
             <div class="foto left">
-                <img src="/afbeeldingen/development/uitklappen2.png">
+                <img src="/afbeeldingen/development/uitklappen2.2.png">
             </div>
             <div class="tekst right">
-                <h1>Feedback</h1>
-                <p>
+                <h1>50%</h1>
+                <p>Toen ik hem eenmaal had had ik per kopje een apparte functie en id. hierbij was de bedoeling als je op de div drukte hij ging kijken of de div die onzichtbaar was zichtbaar of niet zichtbaar was. Als hij zichtbaar zou zijn zou hij verdwijnen en andersom. Over het algemeen was ik hier best blij mee maar zat ik wel met het probleem dat ik steeds een nieuwe functie erbij moest maken voor de kopjes die ik had. 
                 </p>
+            </div>
+            <div class="tekst left">
+                <h1>verbetering</h1>
+                <p>Toen ben ik gaan kijken of ik het anders kon maken zodat ik niet steeds de functie over hoefde te nemen. In het begin kwam ik hier niet uit maar toen ik aan Frank om hulp gevraagd heb ging het wel beter. Zo zijn we eruit gekomen dat we via NextSibling de volgende div konden gebruiken. Dit zorgde er uiteindelijk voor dat ik 170 regels om heb kunnen schrijven na 10 regels. </p>
+            </div>
+            <div class="foto right">
+                <img src="/afbeeldingen/development/uitklappen3.png">
             </div>
             <div class="tekst left">
             <h1>Wat heb ik geleerd?</h1>
@@ -45,6 +52,7 @@
             <h1>Wat kon beter?</h1>
                 <p>Iets wat ik zelf graag beter gezien had was dat ik niet elke functie opnieuw hoefde te schrijven om hem juist te krijgen. Ik wou graag dat ik maar een (of meerdere) functies kon gebruiken om op hetzelfde uit te komen inplaats van ze allemaal opnieuw op te schrijven. </p>
             </div>
+            
         </div>
 
     </div>

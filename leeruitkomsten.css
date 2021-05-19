@@ -12,9 +12,9 @@ body{
     cursor:pointer;
     text-align:center;
     width:25%;
-    margin:auto;
     font-weight:bold;
     border-radius: 50px;
+    margin:5px auto;
 }
 
 .header{
@@ -53,28 +53,26 @@ body{
 .rechts{
     margin-left: 15px;
 }
-/*Container Tekst*/
 .container-kop-tekst{
-    font-family:'Dela Gothic One', cursive;
-    text-decoration:underline;
-    font-size:2rem;
+    font-size:2.5rem;
+    font-family:'Open Sans', sans-serif;
+    font-weight:900;
 }
-.container-tekst{
+
+.container-block{
     font-family:'Open Sans', sans-serif;
     background-color:white;
     padding:5px;
     margin-top:10px;
-    margin-bottom:20px;
-}
-.container-tekst a{
-    text-decoration:none;
-    color:black;
-}
-.container-tekst-kop{
     font-weight:bold;
     font-size:1.25rem;
     cursor:pointer;
 }
-.container-tekst-tekst{
+.container-block-text{
+    font-family:'Open Sans', sans-serif;
+    background-color:white;
     display:none;
+}
+.container-block-text p{
+    margin:0px;
 }
