@@ -34,12 +34,40 @@
                 </div> -->
             </div>
             <div class="grid-right">
-                <img src="afbeeldingen/SilAlpen2.png" class="img">
+                <img src="afbeeldingen/SilAlpen2.png" class="imagine">
             </div>
 
         </div>
         <div class="leerdoelen-main">
-            <a href="leeruitkomsten.php">leerdoelen. (Tijdelijke Link!)</a>
+            <h1 class="ld-intro">Leerdoelen</h1>
+            <div class="ldAfb">
+                <div class="afb">
+                <a href="/index.php"><img src="afbeeldingen/leerdoelen/Communication.png" class="img"></a>
+                <div class="afbTekst">Communicatie</div>
+                </div>
+                <div class="afb">
+                <a href="/index.php"><img src="afbeeldingen/leerdoelen/Design.png" class="img"></a>
+                <div class="afbTekst">Design</div>
+                </div>
+                <div class="afb">
+                <a href="/index.php"><img src="afbeeldingen/leerdoelen/Development.png" class="img"></a>
+                <div class="afbTekst">Development</div>
+                </div>
+            </div>
+            <div class="ldAfb">
+                <div class="afb">
+                <a href="/index.php"><img src="afbeeldingen/leerdoelen/interactieveMedia.png" class="img"></a>
+                <div class="afbTekst">Interactieve Media</div>
+                </div>
+                <div class="afb">
+                <a href="/index.php"><img src="afbeeldingen/leerdoelen/Research.png" class="img"></a>
+                <div class="afbTekst">Research</div>
+                </div>
+                <div class="afb">
+                <a href="/index.php"><img src="afbeeldingen/leerdoelen/ProfIdentity.png" class="img"></a>
+                <div class="afbTekst">Profesional Idenity</div>
+                </div>
+            </div>
         </div>
     </div>
     
