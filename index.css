@@ -6,6 +6,29 @@ p{
     margin:0px;
     font-size:1.3rem;
 }
+
+.button{
+    background-color:red;
+    background-image: linear-gradient(to right, #1F1F1F, #A09C9C);
+    border:none;
+    color:white;
+    padding:25px 32px;
+    text-decoration:none;
+    cursor:pointer;
+    text-align:center;
+    width:35%;
+    font-weight:bold;
+    font-size:2rem;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 50px;
+    margin:35px auto;
+    
+}
+.button:hover{
+    opacity:0.8;
+    font-weight:bolder;
+}
+
 .intro{
     background-image: url("afbeeldingen/SilAlpen.png");
     background-repeat: no-repeat;
@@ -72,6 +95,17 @@ p{
 .ld-intro{
     margin:0px;
 }
+
+.ld-intro a{
+    text-decoration: none;
+    color:black;
+    font-size:5rem;
+    font-family:'Dela Gothic One', cursive;
+}
+.ld-intro a:hover{
+    color:gray;
+    text-decoration:underline gray;
+}
 .ldAfb{
     display:flex;
     align-items: center;
@@ -82,6 +116,7 @@ p{
 }
 .afb img:hover{
     width:150px;
+    opacity: 0.8;
 }
 
 .afb{

@@ -15,8 +15,9 @@
         <?php include('../navigatie.html');?>
         <div class="tekst-intro">Uitklappen van Divs</div>
     </div>
-
+    
     <div class="main">
+        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>intro</h1>
             <p>Ik ben bezig geweest met een kleine POC voor de leeruitkomsten pagina om een stukje tekst uit te kunnen klappen om dan hierover meer te kunnen lezen. En als je dan nog benieuwd was kon je op de knop drukken om vervolgens naar de pagina te gaan waar dan weer meer uitleg staat.</p>
@@ -54,7 +55,7 @@
             </div>
             
         </div>
-
+        <div class="leerdoelTerug"><a href="/ld-development/json.php">Volgend Project ></a></div>
     </div>
 
 </body>

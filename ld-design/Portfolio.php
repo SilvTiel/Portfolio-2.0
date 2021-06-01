@@ -15,8 +15,9 @@
         <?php include('../navigatie.html');?>
         <div class="tekst-intro">Portfolio website design</div>
     </div>
-
+    
     <div class="main">
+        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>Portfolio</h1>
             <p>Voor mijn portfolio ben ik eerst aan de slag geweest in Adobe Xd. Dit heb ik gedaan om hier de look en feel te krijgen voor de website en om tot een idee te komen hoe ik het kan uitwerken. IPV gelijk te beginnnen met html/css zonder enig idee te hebben hoe ik de uitstraling van mijn portfolio wil hebben.
@@ -49,7 +50,7 @@
                 <p></p>
             </div>
         </div>
-
+        <div class="leerdoelTerug"><a href="/ld-design/GooseIsland.php">Volgend Project ></a></div>
     </div>
 
 </body>

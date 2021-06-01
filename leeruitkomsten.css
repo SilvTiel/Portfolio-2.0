@@ -16,6 +16,10 @@ body{
     border-radius: 50px;
     margin:5px auto;
 }
+.button:hover{
+    opacity:0.8;
+    font-weight:bolder;
+}
 
 .header{
     background-image: url("/afbeeldingen/ld-banner.png");

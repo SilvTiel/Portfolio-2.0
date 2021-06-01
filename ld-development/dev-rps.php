@@ -15,8 +15,9 @@
         <?php include('../navigatie.html');?>
         <div class="tekst-intro">Rock paper scissors</div>
     </div>
-
+    
     <div class="main">
+        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>Wat gedaan?</h1>
             <p>Voor mijn eerste POC ben ik bezig geweest met het maken van een spelletje genaamd: Steen papier schaar.
@@ -49,7 +50,7 @@
                 <p>Wat ik beter kon doen was de code nog beter maken nu heb ik dat als de computer een getal moet kiezen dit op drie plekken staan. De volgende keer zou ik dit graag willen oplossen en er verder in verdiepen. Ook zou ik graag iets minder het internet willen gebruiken om een code te schrijven voor een game.</p>
             </div>
         </div>
-
+        <div class="leerdoelTerug"><a href="/ld-development/uitklappen.php">Volgend Project ></a></div>
     </div>
 
 </body>

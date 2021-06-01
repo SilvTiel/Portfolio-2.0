@@ -15,8 +15,9 @@
         <?php include('../navigatie.html');?>
         <div class="tekst-intro">ELLY website design</div>
     </div>
-
+    
     <div class="main">
+        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>Sprint 1</h1>
             <p>In sprint 1 ben ik bezig geweest met het design voor de website van ELLY. Het doel van de website was om informatie en uitleg te geven over onze producten. Bij het design van de website heb ik gebruik gemaakt van Adobe XD. De website bestaat uit verschillende pagina’s die te maken hebben met ons product. Denk hierbij aan de app en de bril.
@@ -49,7 +50,7 @@
                 <p>Iets wat ik beter had kunnen doen was om eerder feedback te vragen. Dit omdat ik dan eerder in had kunnen gaan op de feedback en dan nog tijd had om usertest te doen. Wat nu jammer genoeg niet is gedaan. De Usertest die we voor de website hebben gedaan is wanneer we de website af hadden. </p>
             </div>
         </div>
-
+        <div class="leerdoelTerug"><a href="/ld-design/Portfolio.php">Volgend Project ></a></div>
     </div>
 
 </body>

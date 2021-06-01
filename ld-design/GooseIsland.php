@@ -15,8 +15,9 @@
         <?php include('../navigatie.html');?>
         <div class="tekst-intro">Goose Island</div>
     </div>
-
+    
     <div class="main">
+        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>Intro</h1>
             <p>Bij branding ben ik gaan kijken wat Goose Island is en ben ik hierbij gaan kijken naar het bedrijf hierbij heb ik een bestand gemaakt en heb ik geprobeerd om het bestand om die van Goose Island te laten lijken naar mijn mening.
@@ -56,7 +57,7 @@
                 <p>Over het algemeen ben ik tevreden hoe ik het in elkaar heb gezet maar echter had ik het bestand graag uitgebreider willen hebben. Op een aantal pagina's mis ik nog het logoo met de streepjes deze wou ik graag terug hebben. Alleen is dit niet gelukt omdat ik er geen plek voor had. Nu was het klein en compact volgende keer wil ik ervoor zorgen dat het een stuk ruimer lijkt en wat iets minder compact is. </p>
             </div>
         </div>
-
+        <div class="leerdoelTerug"><a href="/ld-media/">Volgend Project ></a></div>
     </div>
 
 </body>

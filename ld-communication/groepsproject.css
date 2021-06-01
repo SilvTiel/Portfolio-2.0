@@ -1,0 +1,77 @@
+body{
+    background-color:#F7F7F7;
+    margin:0px;
+    padding:0px;
+}
+/*Banner*/
+.header{
+    background-image: url("/afbeeldingen/communicatie/banner.png");
+    height:35vh;
+    margin:0px;
+    position:relative;
+    display:block;
+    background-size:100%;
+    background-repeat: no-repeat;
+}
+.tekst-intro{
+    top:50%;
+    left: 50%;
+    position:absolute;
+    transform:translate(-50%, -50%);
+    background-color: white;
+    padding: 10px 25px;
+    font-family:'Dela Gothic One', cursive;
+    font-size:3rem;
+}
+
+.main{
+    margin:50px 150px;
+}
+
+.intro h1{
+    font-family:'Dela Gothic One', cursive;
+    font-weight:bold;
+    font-size:2rem;
+}
+.intro p{
+    font-family:'Open Sans', sans-serif;
+    font-size:1.2rem;
+}
+.link a{
+    text-decoration: none;
+    color:#575757;
+    font-family:'Dela Gothic One', cursive;
+    font-style:italic;
+}
+.container{
+    display:grid;
+    grid-template-columns: 50% 50%;
+}
+
+.left{
+    margin-right:20px;
+    padding:15px 0px;
+}
+.right{
+    margin-left:20px;
+    padding:15px 0px;
+}
+.foto img{
+    width:100%;
+    height:auto;
+    max-width:100%;
+    display:block;
+    box-shadow:8px 8px 15px gray;
+}
+
+.tekst h1{
+    font-family:'Dela Gothic One', cursive;
+    font-weight:bold;
+    font-size:2rem;
+    margin:0px;
+}
+
+.tekst p{
+    font-family:'Open Sans', sans-serif;
+    font-size:1.2rem;
+}

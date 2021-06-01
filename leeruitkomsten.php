@@ -29,8 +29,8 @@
                     <!-- (Groepsproject) -->
                     <div class="container-block">Groepsproject</div>
                     <div class="container-block-text">
-                        <p>lorem50</p>
-                        <!-- <div class="button" onclick="window.location.href='/index.php'">bekijk project</div> -->
+                        <p>Bij het groepsproject hebben we veel met elkaar gesproken denk hierbij aan via Teams, op school en via whatsapp.</p>
+                        <div class="button" onclick="window.location.href='/ld-communication/groepsproject.php'">bekijk project</div>
                     </div>
 
                     <!-- (Feedpuls) -->
@@ -62,6 +62,13 @@
                     <div class="container-block-text">
                         <p>Ik ben bezig geweest met een kleine POC voor de leeruitkomsten pagina om een stukje tekst uit te kunnen klappen om dan hierover meer te kunnen lezen.</p>
                         <div class="button" onclick="window.location.href='/ld-development/uitklappen.php'">bekijk project</div>
+                    </div>
+
+                    <!-- (Json) -->
+                    <div class="container-block">Gebruik van Json</div>
+                    <div class="container-block-text">
+                        <p>Om met verschillende dingen bezig te gaan voor development ben ik gaan kijken naar Json. Hierbij heb ik een paar kleine opgave gemaakt waarbij je een json file moest ophalen.</p>
+                        <div class="button" onclick="window.location.href='/ld-development/json.php'">bekijk project</div>
                     </div>
 
                 <!-- PROFESSIONAL IDENTITY-->
@@ -117,7 +124,6 @@
                 <!-- INTERACTIEVE MEDIA -->
                 <div class="container-kop-tekst">INTERACTIEVE MEDIA</div>
 
-                <!-- ELLY website -->
                     <!-- (ELLY) -->
                     <div class="container-block">ELLY</div>
                     <div class="container-block-text">
@@ -127,6 +133,13 @@
 
                     <!-- (Portfolio) -->
                     <div class="container-block">Portfolio</div>
+                    <div class="container-block-text">
+                        <p>Nog niet verder uitgewerkt. Sorry voor het dit ongemak.</p>
+                        <!-- <div class="button" onclick="window.location.href='/index.php'">bekijk project</div> -->
+                    </div>
+
+                    <!-- (Sprint X) -->
+                    <div class="container-block">Sprint X</div>
                     <div class="container-block-text">
                         <p>Nog niet verder uitgewerkt. Sorry voor het dit ongemak.</p>
                         <!-- <div class="button" onclick="window.location.href='/index.php'">bekijk project</div> -->
@@ -142,8 +155,8 @@
                         <div class="button" onclick="window.location.href='/ld-research/researchGoose.php'">bekijk project</div>
                     </div>
 
-                    <!-- (Website) -->
-                    <div class="container-block">website</div>
+                    <!-- (Sprint X) -->
+                    <div class="container-block">Sprint X</div>
                     <div class="container-block-text">
                         <p>Nog niet verder uitgewerkt. Sorry voor het dit ongemak.</p>
                         <!-- <div class="button" onclick="window.location.href='/index.php'">bekijk project</div> -->

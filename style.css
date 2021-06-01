@@ -2,3 +2,14 @@ body{
     margin:0px;
     padding:0px;
 }
+
+.leerdoelTerug a{
+    color:darkgray;
+    font-family:'Dela Gothic One', cursive;
+    text-decoration: none;
+    width:auto;
+}
+.leerdoelTerug a:hover{
+    color:gray;
+    text-decoration:underline;
+}

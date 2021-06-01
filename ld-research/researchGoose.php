@@ -15,8 +15,9 @@
         <?php include('../navigatie.html');?>
         <div class="tekst-intro">Research Goose Island</div>
     </div>
-
+    
     <div class="main">
+        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>Intro</h1>
             <p>Voor de focus branding ben ik onderzoek gaan doen naar de bier brouwerij Goose island. Hierbij heb ik gebruik van een merkonderzoek om een kort onderzoeks verslag te schrijven.
@@ -50,8 +51,9 @@
                 <p>Ik was vrij laat met de opdracht begonnen waardoor mijn inzet in het vinden van informatie een beetje aan de korte kant was. Volgende keer wil ik graag eerder beginnen en meer informatie kwijt kunnen over de research die ik doe. Ook wil ik verder op de vragen ingaan dan wat ik nu deed.</p>
             </div>
         </div>
-
+    <div class="leerdoelTerug"><a href="/ld-research/">Volgend Project ></a></div>
     </div>
+    
 
 </body>
 </html>
