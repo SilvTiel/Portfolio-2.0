@@ -36,8 +36,8 @@
                     <!-- (Feedpuls) -->
                     <div class="container-block">Feedpuls</div>
                     <div class="container-block-text">
-                        <p>lorem50</p>
-                        <!-- <div class="button" onclick="window.location.href='/index.php'">bekijk project</div> -->
+                        <p>Een belangrijk punt van alles is om feedback te vragen van wat je hebt gemaakt, Dit zorgt ervoor dat iteraties kan laten zien op je werk en dat het er beter op wordt. Ik heb op verschillende manieren feedback gevraagd. Denk hierbij aan docenten, mede leerlingen en mensen van buiten af.</p>
+                        <div class="button" onclick="window.location.href='/ld-communication/feedpuls.php'">bekijk project</div>
                     </div>
 
                     <!-- (Feedpuls) -->
