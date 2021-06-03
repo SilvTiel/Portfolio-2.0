@@ -36,7 +36,6 @@ html{
 }
 
 .round{
-    margin-top:150px;
     align-items:center;
     display: flex;
     justify-content: center;
@@ -44,6 +43,7 @@ html{
 }
 .round img{
     width:200px;
+    margin-top:150px;
 }
 h1{
     color:white;

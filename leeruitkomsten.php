@@ -40,8 +40,15 @@
                         <div class="button" onclick="window.location.href='/ld-communication/feedpuls.php'">bekijk project</div>
                     </div>
 
-                    <!-- (Feedpuls) -->
-                    <div class="container-block">Q&A</div>
+                    <!-- (Sprint X) -->
+                    <div class="container-block">Sprint X</div>
+                    <div class="container-block-text">
+                        <p>lorem50</p>
+                        <!-- <div class="button" onclick="window.location.href='/index.php'">bekijk project</div> -->
+                    </div>
+
+                    <!-- (Q&A / presentaties) -->
+                    <div class="container-block">Q&A / presentaties</div>
                     <div class="container-block-text">
                         <p>lorem50</p>
                         <!-- <div class="button" onclick="window.location.href='/index.php'">bekijk project</div> -->
@@ -80,20 +87,6 @@
                         <div class="button" onclick="window.location.href='/ld-identity/zelfreflectie.php'">bekijk project</div>
                     </div>
                     
-
-                    <!-- (Media technieken) -->
-                    <div class="container-block">Media technieken</div>
-                    <div class="container-block-text">
-                        <p>Nog niet verder uitgewerkt. Sorry voor het dit ongemak.</p>
-                        <!-- <div class="button" onclick="window.location.href='/index.php'">bekijk project</div> -->
-                    </div>
-
-                    <!-- (branding) -->
-                    <div class="container-block">Branding</div>
-                    <div class="container-block-text">
-                        <p>Nog niet verder uitgewerkt. Sorry voor het dit ongemak.</p>
-                        <!-- <div class="button" onclick="window.location.href='/index.php'">bekijk project</div> -->
-                    </div>
             </div>
             <!-- Rechts -->
             <div class="rechts">
@@ -149,10 +142,17 @@
                 <div class="container-kop-tekst">RESEARCH</div>
 
                 <!-- (branding) -->
-                <div class="container-block">Branding</div>
+                    <div class="container-block">Branding</div>
                     <div class="container-block-text">
                         <p>Voor de focus branding ben ik onderzoek gaan doen naar de bier brouwerij Goose island. Hierbij heb ik gebruik van een merkonderzoek om een kort onderzoeks verslag te schrijven.</p>
                         <div class="button" onclick="window.location.href='/ld-research/researchGoose.php'">bekijk project</div>
+                    </div>
+
+                    <!-- (Glamorous Goat) -->
+                    <div class="container-block">Glamorous Goat</div>
+                    <div class="container-block-text">
+                        <p>Nog niet verder uitgewerkt. Sorry voor het dit ongemak.</p>
+                        <!-- <div class="button" onclick="window.location.href='/index.php'">bekijk project</div> -->
                     </div>
 
                     <!-- (Sprint X) -->
