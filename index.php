@@ -36,7 +36,7 @@
         </div>
         <div class="leerdoelen-main">
             <h1 class="ld-intro"> <a href="/leeruitkomsten.php">Leerdoelen</a></h1>
-            <div class="ldAfb">
+            <!-- <div class="ldAfb">
                 <div class="afb">
                 <a href="/leerdoelen/communicatie.php"><img src="afbeeldingen/leerdoelen/Communication.png" class="img"></a>
                 <div class="afbTekst">Communicatie</div>
@@ -63,7 +63,7 @@
                 <a href="/leerdoelen/identity.php"><img src="afbeeldingen/leerdoelen/ProfIdentity.png" class="img"></a>
                 <div class="afbTekst">Profesional Idenity</div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     

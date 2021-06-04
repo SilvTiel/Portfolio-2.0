@@ -25,29 +25,42 @@
         </div>
         <div class="container">
             <div class="tekst left">
-                <h1>Versie 1</h1>
-                <p>In versie een ben ik verder gaan kijken wat de website moest hebben. Hierbij ben ik op de conclusie gekomen dat het sowieso een homepage moest hebben met daarbij een lopend verhaal met uitleg over alzheimer en over onze producten. Via hier was het de bedoeling dat je verder kan gaan kijken in de producten. Dus was de bedoeling om hier ook sites over te maken.</p>
-                <p>In sprint 0 hebben we gekeken naar de huisstijl. Hier zijn we achter de kleur groen gekomen. We hebben voor groen gekozen omdat het een genezende kracht heeft en wordt beschouwd als een rustgevende en ontspannende kleur voor het menselijk oog. Ook brengt de kleur groen het gevoel van hoop, gezondheid, avontuur en zelfbeheersing met zich mee. </p>
-                <p>Ook hebben we op de website gekozen voor een lettertype. Het lettertype wat het is geworden is Open Sans. Dit omdat het een sans-Serif lettertype is. Maar ook is er maar voor een lettertype gekozen omdat meerdere lettertype de interface en de inhoud verwarrend kunnen maken.</p>
+                <h1>Bedenken</h1>
+                <p>In het begin ben ik gaan kijken naar wat de website moet gaan hebbe. Hierbij ben ik eruit gekomen dat het een rustige maar overzichtelijke website moet zijn waarbij elke doelgroep de website begrijpt. Maar vooral dat de oudere mensen 45+ de website begrijpen. toen ben ik begonnen met het desigen van de website. Op de homepage wou ik graag informatie hebben staan van de website maar dan in het kort. En op de rest van de website wou ik extra uitleg per onderdeel zoals een website over de bril, de app en over onszelfd wat wij als groep willen bereiken.</p>
+                <h1>De kleur</h1>
+                <p>De kleur groen wordt gezien als de kleur van balans, verfrissing, herstel en gezondheid. Deze kenmerken vonden wij belangrijk voor onze doelgroep, en dit is waarom de kleur groen is gekozen. Bovendien kan de kleur groen het handigste door de ogen verwerkt worden.</p>
             </div>
             <div class="foto right">
                 <img src="/afbeeldingen/ELLY/HP-vs1.png">
             </div>
             <div class="foto left">
-                <img src="/afbeeldingen/ELLY/HP-vs2.png">
+                <img src="/afbeeldingen/design/app1.0.png">
             </div>
             <div class="tekst right">
-                <h1>Versie 2/feedback</h1>
-                <p>Toen ik versie 1 af had ik aan joris en bram feedback over het design gevraagd. Ze vonden de website op het algemeen er goed uitzien. Alleen vonden ze dat de homepagina anders kon. Ze wouden hier graag een lopend verhaal bij zien. Denk hierbij aan de website van Apple.  </p>
-                <p>Doormiddel van de feedback heb ik de homepage aangepast. Hierbij ben ik vooral gaan kijken hoe het een lopend verhaal kon worden. Hierbij heb ik rekening gehouden met onze producten die wij uitgewerkt hebben en het verhaal waarom we voor dit probleem hebben gekozen. Hierbij begin je op de homepage met een foto waar wij voor willen staan. Een persoon die last heeft van alzheimer maar toch kan genieten van de momementen met bijvoorbeeld haar kleindochter. Daarna komt er een lopend verhaal beginnend met wat alzheimer is en zo verder door naar de app en de bril met een optie om meer te zien. </p>
+            <h1>Webfonts</h1>
+                <p>Voor de tekst hebben we gebruik gemaakt van Open Sans. Open Sans is een schreefloos lettertype dat perfect leesbaar is. Ik heb expres niet voor meer webfonts gekozen omdat dit voor de gebruiker onduidelijk en onoverzichtelijker kan maken. </p>
+                <h1>De app pagina</h1>
+                <p>Als je op de pagina van de app komt wou ik graag als eerste dat je een paar features ziet van wat de app kan. Dus een Icon met een klein stukje tekst.Verder op de pagina is het mogelijk om hier de app te downloaden maar ook om meer informatie over de app te vinden doormiddel van de blokken die onder het downloaden staan staat er per onderdeel van de app een uitleg gegeven over bijvoorbeeld de gps en medicatie.</p>
+            </div>
+            <div class="tekst left">
+                <h1>De bril pagina</h1>
+                <p>De pagina van de bril bestaat uit twee onderdelen. Op het eerste gedeelte krijg je een 3D model van de bril te zien hierbij was de bedoeling dat je zelf met je muis door de bril kon gaan. Dat je zelf naar de achterkant of zijkant kon gaan. En niet te vergeten in en uitzoomen.</p>
+                <p>Het tweede gedeelte bestaat uit de features van wat de bril heeft. Denk hierbij aan dat er een speaker in de bril zet en dat het een kleine speakertje heeft. Hierbij is feature ook die zien doormiddel van een foto die erlangs staat.</p>
+                <p>
+                    Hier kunt u het design inzien: <a href="https://xd.adobe.com/view/4578795b-2070-4fae-88fa-738aa272a4f5-102b/" target="blank">Versie 1</a>
+                </p>
+            </div>
+            <div class="foto right">
+                <img src="/afbeeldingen/design/bril1.0.png">
             </div>
             <div class="tekst left">
             <h1>Wat heb ik geleerd?</h1>
-                <p>Van de feedback die ik heb gekregen heb ik geleerd dat je de afbeeldingen op je doelgroep moet aanpassen. Hierbij moet je ook rekening houden met de uitdrukking van hun, bijvoorbeeld bij iemand die alzheimer heeft moet je niet zijn leed opzetten maar juist de momenten wat goed gaan zoals wanneer hij/zij lacht. </p>
+                <p>Ik heb geleerd hoe ik rekening kan houden met de doelgroep en daarbij voor hun een website te maken. Ook ben ik erachter gekomen hoe ik met Adobe Xd om moet gaan. Ik wist hier wel al een beetje van maar het is nu allemaal iets duidelijker en handiger geworden voor mij. Wat mij ook opviel is het verschil tussen het maken van design en later het uitwerken naar de website. Want niet alles komt precies overheen.</p>
             </div>
             <div class="tekst right">
             <h1>Wat kon beter?</h1>
-                <p>Iets wat ik beter had kunnen doen was om eerder feedback te vragen. Dit omdat ik dan eerder in had kunnen gaan op de feedback en dan nog tijd had om usertest te doen. Wat nu jammer genoeg niet is gedaan. De Usertest die we voor de website hebben gedaan is wanneer we de website af hadden. </p>
+                <p>Voor het gevoel heb ik hier veel tijd aan besteed en is het lastig om te bepalen wat ik zelf beter kon doen. Maar een ding wat ik wel echt beter had kunnen doen is het voorbereiden op het design doormiddel van een wireframe.</p>
+
             </div>
         </div>
         <div class="leerdoelTerug"><a href="/ld-design/Portfolio.php">Volgend Project ></a></div>
