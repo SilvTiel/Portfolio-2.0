@@ -113,10 +113,12 @@ p{
 }
 .afb img{
     width:125px;
+    transition:500ms;
 }
 .afb img:hover{
     width:150px;
     opacity: 0.8;
+    transition:500ms;
 }
 
 .afb{

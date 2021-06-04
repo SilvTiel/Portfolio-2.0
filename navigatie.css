@@ -77,4 +77,28 @@ body{
 
 .menu-img:hover{
   opacity: 0.6;
+  cursor:pointer;
+}
+
+.menutekst{
+  text-align:center;
+  position:relative;
+  top:100px;
+  width:auto;
+}
+.menutekst a{
+  display:block;
+  text-decoration:none;
+  color:white;
+  font-size:2.5rem;
+  font-family: 'Dela Gothic One', cursive;
+  margin-bottom:50px;
+  transition:500ms;
+}
+
+.menutekst a:hover{
+  transition:500ms;
+  text-decoration:underline white 3px;
+  color:grey;
+  font-size:2.7rem;
 }
