@@ -53,11 +53,11 @@
             </div>
             <div class="tekst left">
             <h1>Wat ging er goed?</h1>
-                <p></p>
+                <p>Wat er goed ging was het interpreteren van de feedback die ik het gekregen op mijn versie. Daarbij begreep ik wat de mensen bedoelde en heb ik deze verrandert in de website.</p>
             </div>
             <div class="tekst right">
             <h1>Wat kon beter?</h1>
-                <p></p>
+                <p>De volgende keer had ik eerder feedback kunnen vragen en er voor willen zorgen dat ik vaker feedback vraag over waar ik mee bezig ben. Dit om een nog beter proces te krijgen en om zo de kleine dingen te kunnen verbeteren.</p>
             </div>
         </div>
         <div class="leerdoelTerug"><a href="/ld-design/Portfolio.php">Volgend Project ></a></div>

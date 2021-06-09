@@ -52,9 +52,13 @@
             <div class="tekst right">
             <h1>Wat kon beter?</h1>
                 <p>Iets wat ik zelf graag beter gezien had was dat ik niet elke functie opnieuw hoefde te schrijven om hem juist te krijgen. Ik wou graag dat ik maar een (of meerdere) functies kon gebruiken om op hetzelfde uit te komen inplaats van ze allemaal opnieuw op te schrijven. </p>
-            </div>
+</div>
             
         </div>
+        <div class="intro">
+            <h1>Git</h1>
+                <p>Omdat ik vergeten was vanaf begin gebruik te maken van GIT is deze GIT niet goed bijgehouden maar heb ik wel een eindversie ervan op GIT gezet: <a href="https://github.com/SilvTiel/uitklappen-van-Div" target="blank">Zie Hier.</a></p>
+            </div>
         <div class="leerdoelTerug"><a href="/ld-development/json.php">Volgend Project ></a></div>
     </div>
 

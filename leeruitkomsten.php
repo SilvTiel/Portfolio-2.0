@@ -96,7 +96,7 @@
                     <!-- (ELLY website) -->
                     <div class="container-block">ELLY website</div>
                         <div class="container-block-text">
-                            <p>Voor ons project ben ik bezig geweest met het design van de website. Voor dit design ben ik gaan kijken naar de doelgroep die wij aanspreken en waarvoor de website hoort te dienen. Nadat mijn eerste versie af was heb ik om feedback gevraagd en heb ik deze toegepast op de website.</p>
+                            <p>Voor ons project ben ik bezig geweest met het design van de website. Voor dit design ben ik gaan kijken naar de doelgroep die wij aanspreken en waarvoor de website hoort te dienen.</p>
                             <div class="button" onclick="window.location.href='/ld-design/ELLY.php'">Bekijk project</div>
                     </div>
 
@@ -120,8 +120,8 @@
                     <!-- (ELLY) -->
                     <div class="container-block">ELLY</div>
                     <div class="container-block-text">
-                        <p>Nog niet verder uitgewerkt. Sorry voor het dit ongemak.</p>
-                        <!-- <div class="button" onclick="window.location.href='/index.php'">bekijk project</div> -->
+                        <p>Voor ons project ben ik bezig geweest met het design van de website. Voor dit design ben ik gaan kijken naar de doelgroep die wij aanspreken en waarvoor de website hoort te dienen. Nadat mijn eerste versie af was heb ik om feedback gevraagd en heb ik deze toegepast op de website.</p>
+                        <div class="button" onclick="window.location.href='/ld-media/mediaElly.php'">bekijk project</div>
                     </div>
 
                     <!-- (Portfolio) -->

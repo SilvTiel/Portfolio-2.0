@@ -24,6 +24,7 @@
                 Hier ben ik voor het eerst echt bezig geweest met HTML / CSS / Javascript. Deze game heb ik gemaakt doormiddel
                 van verschillende tutorials op internet om zo tot een eigen code uitwerking te komen.</p>
                 <div class="link"> <a href="rps/index.html" target="blank"> > BEKIJK PROJECT</a></div>
+                <div class="link"> <a href="https://github.com/SilvTiel/R-P-S" target="blank"> > BEKIJK GIT</a></div>
         </div>
         <div class="container">
             <div class="tekst left">

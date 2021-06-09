@@ -41,6 +41,11 @@ body{
     color:#575757;
     font-family:'Dela Gothic One', cursive;
     font-style:italic;
+    transition: 0.3s;
+}
+.link a:hover{
+    transition: 0.3s;
+    text-decoration:underline;
 }
 .container{
     display:grid;
