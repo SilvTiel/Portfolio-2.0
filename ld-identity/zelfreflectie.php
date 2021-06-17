@@ -36,7 +36,7 @@
 
             <div class="tekst left">
                 <h1>Waarin ben ik gegroeid?</h1>
-                <p>Ik ben gegroeid in het nadenken als ICT Media en Designer. </p>
+                <p>Ik ben gegroeid in het vragen van feedback. Ik kom van de Havo af waar je gewoon opdrachten moet maken die je voorgelecht zijn en waarbij je toetsen moet maken. Ook ben ik zelf niet iemand die heel snel met nieuwe mensen praat dus ook niet met docenten. Ik vind dat ik wel vooruit gang heb geboekt met het vragen van feedback naar mensen die ik (bijna) niet ken. Ook ben ik gegroeid met het gebruik van HTMl, css en Javascirpt voorheen wist ik hier bijna niks over en nu snap ik waar voort heel veel voor dient. </p>
             </div>
 
             <div class="tekst right">
@@ -47,7 +47,8 @@
 
             <div class="tekst left">
                 <h1>Wat motiveerd mij?</h1>
-                <p>Wordt later ingevuld!</p>
+                <p>De dingen die mij motivieren zijn de producten die ik heb kunnen neerzetten en dat ik hier goede feedback op krijg. Dat men vind dat is iets goeds en leuks waar je echt iets mee kan.</p>
+                <p>Wat mij ook motiveerd zijn de dingen die ik hier leer, af en toe denk ik dat ik niet leer maar als ik zo terug kijk vind ik dat ik best veel heb geleerd dit afgelopen jaar. Hoe ik dingen moet plannen (en hoe niet), hoe adobe programmas werken en hoe het maken van een site in elkaar zit.</p>
             </div>
 
             <div class="tekst right">
@@ -58,17 +59,19 @@
 
             <div class="tekst left">
                 <h1>Wat pak ik in vervolg anders aan?</h1>
-                <p>Wordt later ingevuld!</p>
+                <p>Een ding wat ik de volgende keer anders wil doen is een betere planning maken waarbij ik meer reking hou met mijn eigen zaken zoals het maken van mijn portfolio. Maar ook terwijl ik bezig ben met het groepsproject moet ik ervoor zorgen dat ik de teksten gelijk toevoeg aan mijn website. Dit om ervoor te zorgen dat ik het laatste moment niet nog alles hoef te doen.</p>
             </div>
 
             <div class="tekst right">
                 <h1>Hoe wil ik me verder ontwikkelen?</h1>
-                <p>Wordt later ingevuld!</p>
+                <p>Hoe ik me verder ontwikkelen is een lastige vraag, graag zou ik wat ik nu heb gedaan vaker willen doen. Dus dat betekend dat ik meer weer leren met het maken van website's dus ook het design voor een website maar ook de usability testen bij mensen houden voor de website zodat de doelgroep het begrijpt. Verder wil ik mezelf meer ontwikkelen in het gebruik van Adobe denk hierbij aan Adobe Xd, Photoshop en Premiere Pro.</p>
             </div>
 
             <div class="tekst left">
-                <h1>Hoe maakt mij dit een betere media Designer</h1>
-                <p>Wordt later ingevuld!</p>
+                <h1>Hoe maakt mij dit een betere media Designer?</h1>
+                <p>Een media designer moet verschillende dingen onder controle hebben. Denk hierbij aan het maken van een website. Voordat je begint met het maken van een website ga je research doen. Dit kan je doen doormiddel van het kijken naar concurrenten maar ook door te kijken waar is er vraag naar? Voor mijn groepsproject hebben we gekeken naar een probleem waar we een oplossing kunnen vinden namelijk Alzheimer. </p>
+                <p>Maar het blijft niet alleen bij Research. Nadat je research gedaan hebt ga je beginnen met het maken van een design dit doe je doormiddel van het gebruik van professionele programma’s zoals Adobe XD. Ikzelf wist voordat ik aan dit semester begon niet wat adobe XD en nu is het waarschijnlijk een van de meeste programma’s die ik op mijn laptop gebruik. Wanneer je bezig bent met een design moet je ook rekening houden met je doelgroep dus moet je regelmatig communiceren met je doelgroep doormiddel van het vragen naar feedback of het testen van je design doormiddel van Usability tests. Door de gegeven feedback kan je deze toepassen op je product zodat het een product wordt van een hoog niveau. Nadat je Het design uitgewerkt hebt de klanten tevreden zijn over je product kan ik deze gaan uitwerken. </p>
+                <p>Van de producten die ik heb neergezet is het grootste gedeelte neergezet door HTML, CSS en Javascript. Voordat ik aan dit semester begon wist ik eigenlijk nog niet veel wat ik hiermee kon maar nu weet ik hoe de basic in elkaar zit en leer ik elke dag wel weer iets nieuws erbij. Door het constant doen en verbeteren van mijn producten vind ik dat dit mij een betere media designer maakt.</p>
             </div>
 
         </div>

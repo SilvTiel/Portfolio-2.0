@@ -20,10 +20,10 @@
     <div class="row">
         <div class="column left">
             <div class="tekst">
-                <h1>Branding</h1>
-                <p>Voor Branding ben ik gaan kijken naar het bedrijf van Goose Island wat is gevestigd in Chigago.</p>
+                <h1>Focus keuzemodule</h1>
+                <p>Met de keuzemodules kun je een persoonlijke focus aantonen. Hiermee kun je specialiseren in een bepaalde richting om hier extra kennis en ervaring mee op te doen. Je moet er minimaal twee van de vier afronden.</p>
                 <div class="knop">
-                    <div class="button" onclick="window.location.href='/ld-research/researchGoose.php'">Bekijk project</div>
+                    <div class="button" onclick="window.location.href='/ld-identity/focuskeuze.php'">Bekijk project</div>
                 </div>
             </div>
             <div class="img">
@@ -33,33 +33,20 @@
 
         <div class="column right">
             <div class="tekst">
-                <h1>Storytelling</h1>
-                <p></p>
+                <h1>Hoe ben ik gegroeid?</h1>
+                <p>Hierbij ben ik gaan kijken wat ik dit semester heb gedaan. Hierbij ga ik kijken naar alles wat ik heb gedaan en ga ik kijken naar de goede en slechte punten deze periode.</p>
                 <div class="knop">
-                    <div class="button" onclick="window.location.href='/ld-media/'">Bekijk project</div>
+                <div class="button" onclick="window.location.href='/ld-identity/zelfreflectie.php'">Bekijk project</div>
                 </div>
             </div>
             <div class="img">
-                <img src="/afbeeldingen/">
+                <img src="/afbeeldingen/SilAlpen2.png">
             </div>
         </div>
     </div>
         
     <div class="row">
 
-        <div class="column left">
-            <div class="tekst">
-                <h1>Hoe ben ik gegroeid?</h1>
-                <p>Hierbij ben ik gaan kijken wat ik dit semester heb gedaan. Hierbij ga ik kijken naar alles wat ik heb gedaan en ga ik kijken naar de goede en slechte punten deze periode.</p>
-                <div class="knop">
-                    <div class="button" onclick="window.location.href='/ld-identity/zelfreflectie.php'">Bekijk project</div>
-                </div>
-                
-            </div>
-            <div class="img">
-                <img src="/afbeeldingen/">
-            </div>
-        </div>
         <!-- <div class="column right">
             <div class="tekst">
                 <h1>Sprint X</h1>

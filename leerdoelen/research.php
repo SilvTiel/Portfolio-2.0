@@ -35,20 +35,20 @@
         <div class="column right">
             <div class="tekst">
                 <h1>Sprint X</h1>
-                <p></p>
+                <p>Voor Sprint X heb ik op verschillende manieren research gedaan. Deze research is gedaan doormiddel van het DOT-Framenwork en de CMD-methods.</p>
                 <div class="knop">
-                    <div class="button" onclick="window.location.href='/ld-media/'">Bekijk project</div>
+                    <div class="button" onclick="window.location.href='/ld-research/resSprintX.php'">Bekijk project</div>
                 </div>
             </div>
             <div class="img">
-                <img src="/afbeeldingen/">
+                <img src="/afbeeldingen/research/naamloos-1.png">
             </div>
         </div>
     </div>
         
     <div class="row">
 
-        <div class="column left">
+        <!-- <div class="column left">
             <div class="tekst">
                 <h1>Glamorous Goat</h1>
                 <p>Bij branding ben ik gaan kijken wat Goose Island is en ben ik hierbij gaan kijken naar het bedrijf hierbij heb ik een bestand gemaakt en heb ik geprobeerd om het bestand om die van Goose Island te laten lijken naar mijn mening.</p>
@@ -60,7 +60,7 @@
             <div class="img">
                 <img src="/afbeeldingen/">
             </div>
-        </div>
+        </div> -->
         <!-- <div class="column right">
             <div class="tekst">
                 <h1>Sprint X</h1>
