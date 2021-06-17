@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="index.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
     <script src="main.js" defer></script>
 </head>
 <body>
@@ -34,9 +36,10 @@
             </div>
 
         </div>
-        <div class="leerdoelen-main">
+        <div class="leerdoelen-main" id="leeruitkomsten">
             <h1 class="ld-intro"> <a href="/leeruitkomsten.php">Leerdoelen</a></h1>
-            <!-- <div class="ldAfb">
+            <div class="leegte"></div>
+            <div class="ldAfb">
                 <div class="afb">
                 <a href="/leerdoelen/communicatie.php"><img src="afbeeldingen/leerdoelen/Communication.png" class="img"></a>
                 <div class="afbTekst">Communicatie</div>
@@ -61,9 +64,9 @@
                 </div>
                 <div class="afb">
                 <a href="/leerdoelen/identity.php"><img src="afbeeldingen/leerdoelen/ProfIdentity.png" class="img"></a>
-                <div class="afbTekst">Profesional Idenity</div>
+                <div class="afbTekst">Profesional Identity</div>
                 </div>
-            </div> -->
+            </div>
         </div>
     </div>
     

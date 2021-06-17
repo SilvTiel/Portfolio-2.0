@@ -4,7 +4,7 @@ body{
 }
 p{
     margin:0px;
-    font-size:1.3rem;
+    font-size:1rem;
 }
 
 .button{
@@ -73,7 +73,8 @@ p{
     font-size:1rem;
 }
 .head-over-mij h1{
-    font-family: 'Dela Gothic One', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-weight:700;
     font-size:3rem;
 }
 .knop1{
@@ -100,7 +101,8 @@ p{
     text-decoration: none;
     color:black;
     font-size:5rem;
-    font-family:'Dela Gothic One', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-weight:500;
 }
 .ld-intro a:hover{
     color:gray;
@@ -112,11 +114,11 @@ p{
     justify-content: center;
 }
 .afb img{
-    width:125px;
+    width:100px;
     transition:500ms;
 }
 .afb img:hover{
-    width:150px;
+    width:125px;
     opacity: 0.8;
     transition:500ms;
 }
@@ -126,6 +128,11 @@ p{
     width:400px;
 }
 .afbTekst{
-    font-family:'Dela Gothic One', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-weight:500;
     font-size:2rem;
+}
+
+.leegte{
+    height:75px;
 }
