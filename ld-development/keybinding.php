@@ -31,10 +31,10 @@
                 <p>Om ervoor te zorgen dat ik die kleine javascript opdrachten kon doen moest ik ervoor zorgen dat ik het toetsenbord kon aflezen. Doormiddel van het gebruik van een switch kon ik verschillende opdrachten aan de verschillende toetsen geven. Hierbij maakte ik gebruik van een case en een break. Case 69 staat bijvoorbeeld voor de letter: "e" op het toetsenbord.</p>
             </div>
             <div class="foto right">
-                <img src="/afbeeldingen/development/uitklappen1.png">
+                <img src="/afbeeldingen/development/keybinding1.png">
             </div>
             <div class="foto left">
-                <img src="/afbeeldingen/development/uitklappen2.2.png">
+                <img src="/afbeeldingen/development/keybinding2.png">
             </div>
             <div class="tekst right">
                 <h1>De Toetsen</h1>

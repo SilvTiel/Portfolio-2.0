@@ -14,8 +14,66 @@
 
     <div class="intro">
         <?php include("../navigatie.html");?>
-        <div class="tekst-intro">Identity</div>
+        <div class="tekst-intro">Profesional Identity</div>
     </div>
-    
+    <div class="head">
+    <div class="row">
+        <div class="column left">
+            <div class="tekst">
+                <h1>Branding</h1>
+                <p>Voor Branding ben ik gaan kijken naar het bedrijf van Goose Island wat is gevestigd in Chigago.</p>
+                <div class="knop">
+                    <div class="button" onclick="window.location.href='/ld-research/researchGoose.php'">Bekijk project</div>
+                </div>
+            </div>
+            <div class="img">
+                <img src="/afbeeldingen/gooseIsland/goose1.0.png">
+            </div>
+        </div>
+
+        <div class="column right">
+            <div class="tekst">
+                <h1>Storytelling</h1>
+                <p></p>
+                <div class="knop">
+                    <div class="button" onclick="window.location.href='/ld-media/'">Bekijk project</div>
+                </div>
+            </div>
+            <div class="img">
+                <img src="/afbeeldingen/">
+            </div>
+        </div>
+    </div>
+        
+    <div class="row">
+
+        <div class="column left">
+            <div class="tekst">
+                <h1>Hoe ben ik gegroeid?</h1>
+                <p>Hierbij ben ik gaan kijken wat ik dit semester heb gedaan. Hierbij ga ik kijken naar alles wat ik heb gedaan en ga ik kijken naar de goede en slechte punten deze periode.</p>
+                <div class="knop">
+                    <div class="button" onclick="window.location.href='/ld-identity/zelfreflectie.php'">Bekijk project</div>
+                </div>
+                
+            </div>
+            <div class="img">
+                <img src="/afbeeldingen/">
+            </div>
+        </div>
+        <!-- <div class="column right">
+            <div class="tekst">
+                <h1>Sprint X</h1>
+                <p>Voor sprint X ben ik gaan kijken wat ik belangrijk vond om in de app te hebben, doormiddel van feedback van gebruikers heb ik het zo aangepast dat het design op hun aansluit. Doormiddel van pen en papier en adobe XD heb ik mijn eerste ontwerp neergezet.</p>
+                <div class="knop">
+                    <div class="button" onclick="window.location.href='/ld-design/desSprintX.php'">Bekijk project</div>
+                </div>
+                
+            </div>
+            <div class="img">
+                <img src="/afbeeldingen/communicatie/apphomescreen.png">
+            </div>
+        </div> -->
+    </div>
+    </div>
 </body>
 </html>

@@ -30,7 +30,7 @@
                 <p><a href="https://github.com/SilvTiel/BackToTop" target="blank">Link naar Github</a></p>
             </div>
             <div class="foto right">
-                <img src="/afbeeldingen/development/uitklappen1.png">
+                <img src="/afbeeldingen/development/backtotop.png">
             </div>
             <div class="tekst left">
             <h1>Wat heb ik geleerd?</h1>

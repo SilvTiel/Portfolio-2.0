@@ -73,7 +73,7 @@
                 
             </div>
             <div class="img">
-                <img src="/afbeeldingen/">
+                <img src="/afbeeldingen/development/top.jpg">
             </div>
         </div>
 
@@ -88,7 +88,7 @@
                 
             </div>
             <div class="img">
-                <img src="/afbeeldingen/">
+                <img src="/afbeeldingen/development/keyboard.jpg">
             </div>
         </div>
 
