@@ -41,6 +41,8 @@
             <div class="tekst left">
                 <h1>verbetering</h1>
                 <p>Toen ben ik gaan kijken of ik het anders kon maken zodat ik niet steeds de functie over hoefde te nemen. In het begin kwam ik hier niet uit maar toen ik aan Frank om hulp gevraagd heb ging het wel beter. Zo zijn we eruit gekomen dat we via NextSibling de volgende div konden gebruiken. Dit zorgde er uiteindelijk voor dat ik 170 regels om heb kunnen schrijven na 10 regels. </p>
+                <h1>Voorbeeld</h1>
+                <p>Hier heb je een voorbeeld die ik had uitgewerkt van het uitklappen <a href="/leeruitkomsten.php">Zie hier.</a></p>
             </div>
             <div class="foto right">
                 <img src="/afbeeldingen/development/uitklappen3.png">
@@ -59,6 +61,7 @@
             <h1>Git</h1>
                 <p>Omdat ik vergeten was vanaf begin gebruik te maken van GIT is deze GIT niet goed bijgehouden maar heb ik wel een eindversie ervan op GIT gezet: <a href="https://github.com/SilvTiel/uitklappen-van-Div" target="blank">Zie Hier.</a></p>
             </div>
+            
         <div class="leerdoelTerug"><a href="/ld-development/json.php">Volgend Project ></a></div>
     </div>
 

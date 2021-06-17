@@ -25,7 +25,7 @@
             <div class="grid-mid">
                 <div class="head-over-mij">
                     <h1>Over mij</h1>
-                    <p>Heeey hoi! Mijn naam is Sil van Tiel ik ben 18 jaar jong en kom uit een klein maar gezellig dorpje Erp. Vooraf gaande aan de opleiding HBO ICT, Media & Design op de Fontys te Eindhoven heb ik de Havo afgerond op het Zwijsen College te Veghel. Destijds had ik de opleiding gekozen N&T met als keuze daarbij informatica, daar begon ik met het maken van een kleine maar simpele website. Dit vond ik destijds leuk dus wou ik hier graagin verder gaan en kijken wat er meer mee kon. Dus toen ik begon aan de opleiding wist ik bijna meteen dat ik voor Media & Design wou gaan omdat dit mij het meeste aansprak van alles waar ik uit kon kiezen. En ik zie er graag naar uit om meer over mijn opleiding te leren en alles wat hierbij komt kijken. 
+                    <p>Hey hoi! Mijn naam is Sil van Tiel ik ben 18 jaar jong en kom uit een klein maar gezellig dorpje Erp. Vooraf gaande aan de opleiding HBO ICT, Media & Design op de Fontys te Eindhoven heb ik de Havo afgerond op het Zwijsen College te Veghel. Destijds had ik de opleiding gekozen N&T met als keuze daarbij informatica, hierbij ging het vooral over het gebruik van divs op een website en hierbij paar kleine opdrachten te maken. Dit vond ik destijds zo leuk dat ik hier graag meer over wou weten en meer mee wou doen. Toen ik aan deze opleiding begin was het voor mij bijna meteen duidelijk dat ik Media & Design wou gaan doen. Dit omdat dit mij het meeste aansprak en ik hier veel variatie mee had waardoor ik niet steeds hetzelfde hoefde te doen. Graag zie ik er naar uit om verder te gaan met Media & Design en veel leren wat hierbij komt kijken.   
                     </p>
                     <div class="button" onclick="window.location.href='/over.php'">Meer over Mij</div>
                     <p></p>
@@ -37,7 +37,7 @@
 
         </div>
         <div class="leerdoelen-main" id="leeruitkomsten">
-            <h1 class="ld-intro"> <a href="/leeruitkomsten.php">Leerdoelen</a></h1>
+            <div class="ld-intro"><h1> Leeruitkomsten</h1></div>
             <div class="leegte"></div>
             <div class="ldAfb">
                 <div class="afb">

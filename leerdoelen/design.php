@@ -61,7 +61,19 @@
                 <img src="/afbeeldingen/gooseIsland/goose1.0.png">
             </div>
         </div>
-        
+        <div class="column right">
+            <div class="tekst">
+                <h1>Sprint X</h1>
+                <p>Voor sprint X ben ik gaan kijken wat ik belangrijk vond om in de app te hebben, doormiddel van feedback van gebruikers heb ik het zo aangepast dat het design op hun aansluit. Doormiddel van pen en papier en adobe XD heb ik mijn eerste ontwerp neergezet.</p>
+                <div class="knop">
+                    <div class="button" onclick="window.location.href='/ld-design/desSprintX.php'">Bekijk project</div>
+                </div>
+                
+            </div>
+            <div class="img">
+                <img src="/afbeeldingen/communicatie/apphomescreen.png">
+            </div>
+        </div>
     </div>
     </div>
 </body>

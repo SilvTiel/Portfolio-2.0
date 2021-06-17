@@ -36,20 +36,12 @@
             <div class="tekst right">
                 <h1>Feedback</h1>
                 <p>Ook heb ik feedback gevraagd aan docenten dit ging meestal over de opdrachten die ik gedaan heb maar ook over het gezamelijke project. De feedback die ik meestal heb gekregen is dat ik goed bezig ben en aan veel gedacht hebt, en dan ging het vooral om de kleinere dingen bijvoorbeeld bij het design dat je dit of dat anders kan doen (ELLY website). Of bij development dat je de tekst beter op een andere plek kan verschijnen (Rock, Paper, Scissors). 
-                </p><p>
+                </p>
+                <p>
                     De feedback die ik heb gevraagd ging meestal via een Teams meeting. De feedback die ik gekregen heb, heb ik meestal persoonlijk opgeschreven om er later op terug te komen en een deel hiervan heb ik ook in feedpuls gezet. Dit omdat als ik het ooit kwijt raak het nog op een andere plek staat.
                 </p>
                 <p>In het begin hield ik de feedback goed bij en vulde ik elke week in wat ik afgelopen weeek had gedaan maar hoe verder ik dit semester kwam hoe minder ik er rekening mee heb gehouden en hoe minder ik het heb ingevuld.</p>
             </div>
-            <!-- <div class="tekst left">
-            <h1>Wat heb ik geleerd?</h1>
-                <p></p>
-            </div>
-            <div class="tekst right">
-            <h1>Wat kon beter?</h1>
-                <p></p>
-            </div> -->
-            
         </div>
         <div class="leerdoelTerug"><a href="/ld-communication/feedpuls.php">Volgend Project ></a></div>
     </div>

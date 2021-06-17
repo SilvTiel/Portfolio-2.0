@@ -5,6 +5,7 @@ body{
 p{
     margin:0px;
     font-size:1rem;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .button{
@@ -12,17 +13,17 @@ p{
     background-image: linear-gradient(to right, #1F1F1F, #A09C9C);
     border:none;
     color:white;
-    padding:25px 32px;
+    padding:15px 25px;
     text-decoration:none;
     cursor:pointer;
     text-align:center;
-    width:35%;
+    width:30%;
     font-weight:bold;
-    font-size:2rem;
+    font-size:1.5rem;
     font-family: 'Open Sans', sans-serif;
     border-radius: 50px;
     margin:35px auto;
-    
+    margin-top:80px;
 }
 .button:hover{
     opacity:0.8;
@@ -51,7 +52,8 @@ p{
     background-color: white;
     padding: 10px 25px;
     font-family:'Dela Gothic One', cursive;
-    font-size:4rem;
+    font-size:3rem;
+    text-align:center;
 }
 .grid-main{
     display:grid;
@@ -93,21 +95,16 @@ p{
     margin-top:100px;
     margin-left:-150px;
 }
-.ld-intro{
-    margin:0px;
-}
 
-.ld-intro a{
-    text-decoration: none;
+.ld-intro h1{
+    margin:0px;
     color:black;
     font-size:5rem;
     font-family: 'Oswald', sans-serif;
     font-weight:500;
+    text-decoration: none;
 }
-.ld-intro a:hover{
-    color:gray;
-    text-decoration:underline gray;
-}
+
 .ldAfb{
     display:flex;
     align-items: center;
