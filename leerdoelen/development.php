@@ -68,7 +68,7 @@
                 <h1>Back to Top</h1>
                 <p>Bij back to top ben ik gaan kijken hoe ik een knop kon creëren die er pas komt te staan wanneer je eenmaal een deel naar beneden bent gescrolld.</p>
                 <div class="knop">
-                    <div class="button" onclick="window.location.href='/ld-design/desSprintX.php'">Bekijk project</div>
+                    <div class="button" onclick="window.location.href='/ld-development/backToTop.php'">Bekijk project</div>
                 </div>
                 
             </div>
@@ -83,7 +83,7 @@
                 <p>Bij Keybinding ben ik bezig geweest met opdrachten op de keys van een toetsenbord te zetten. Denk hierbij aan Geluid op de W toets of bij Y de kleur die verandert.
                     </p>
                 <div class="knop">
-                    <div class="button" onclick="window.location.href='/ld-design/GooseIsland.php'">Bekijk project</div>
+                    <div class="button" onclick="window.location.href='/ld-development/keybinding.php'">Bekijk project</div>
                 </div>
                 
             </div>
