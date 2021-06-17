@@ -17,7 +17,7 @@
     </div>
     
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+    <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>Intro</h1>
             <p>Tijdens Sprint X ben ik bezig geweest met het creëren van een app door steeds nieuwe feedback vragen over de app. De feedback probeer ik dan zo goed mogelijk in de app te verwerken waardoor er uiteindelijk een gebruiksvriendelijke app uit komt.
@@ -72,7 +72,7 @@
                 <p>Volgende keer kon ik mijn tijd voor Sprint X beter opdelen waardoor ik nog een versie had kunnen maken hierop waardoor de toekomst plannen die ik nu heb staan er niet te hoeven staan.</p>
             </div>
         </div>
-        <div class="leerdoelTerug"><a href="/ld-design/Portfolio.php">Volgend Project ></a></div>
+        <div class="leerdoelTerug"><a href="/ld-media/mediaPortfolio.php">Volgend Project ></a></div>
     </div>
 
 </body>

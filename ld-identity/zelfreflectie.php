@@ -75,7 +75,6 @@
             </div>
 
         </div>
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">Volgend Project ></a></div>
     </div>
 
 </body>

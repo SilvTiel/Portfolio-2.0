@@ -17,7 +17,7 @@
     </div>
     
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+    <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>intro</h1>
             <p>Json is de afkorting van JavaScript Object Notation. Json wordt vooral gebruikt op data van de server naar een webpagina te versturen. Voorbeeld is dat je zo heel handig grote bestanden die hetzelfde zijn ingedeeld kan aflezen. Of dat je het weer op je website kan laten zien. Ikzelf ben gaan kijken hoe ik een card kan maken met persoonlijke gegevens van personen. en later hoe ik het weer kan laten zien op een webpagina.</p>
@@ -61,7 +61,7 @@
             </div>
             
         </div>
-        <div class="leerdoelTerug"><a href="/ld-identity/zelfreflectie.php">Volgend Project ></a></div>
+        <div class="leerdoelTerug"><a href="/ld-development/uitklappen.php">Volgend Project ></a></div>
     </div>
 
 </body>

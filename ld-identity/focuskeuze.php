@@ -17,7 +17,7 @@
     </div>
     
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+    <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>Intro</h1>
             <p>Met de keuzemodules kun je een persoonlijke focus aantonen. Hiermee kun je specialiseren in een bepaalde richting om hier extra kennis en ervaring mee op te doen. Je moet er minimaal twee van de vier afronden.
@@ -35,6 +35,6 @@
                 <p>Ik heb deze module gekozen omdat het vertellen van een verhaal best wat kracht kan hebben. Hiervoor heb ik voor een ergere besmetting gekozen met een van de ergste lockdowns is het land. Bij dit project heb ik gebruik gemaakt van adobe illustrator om toch iets nieuws erbij te leren want heb er voorheen nog nooit mee gewerkt.</p>
             </div>
             
-
+            <div class="leerdoelTerug"><a href="/ld-identity/zelfreflectie.php">Volgend Project ></a></div>
 </body>
 </html>

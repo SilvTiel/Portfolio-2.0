@@ -17,7 +17,7 @@
     </div>
     
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+        <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>Intro</h1>
             <p>Voor mijn portfolio ben ik eerst begonnen met een design. Hierbij heb ik een aantal keuzes gemaakt en hierbij om feedback gevraagd.
@@ -51,7 +51,7 @@
                 <p>Iets wat ik zeker beter had kunnen doen was om eerder feedback te vragen aan verschillende mensen op de website. Nu had ik anderhalf week voordat ik mijn portfolio moest inleveren feedback gevraagd en dit had ik eigenlijk zeker een maand eerder moeten doen.</p>
             </div>
         </div>
-        <div class="leerdoelTerug"><a href="/ld-design/Portfolio.php">Volgend Project ></a></div>
+        <div class="leerdoelTerug"><a href="/leerdoelen/research.php">Volgende Leeruitkomst Research ></a></div>
     </div>
 
 </body>

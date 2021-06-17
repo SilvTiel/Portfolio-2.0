@@ -34,7 +34,7 @@ body{
 }
 .intro p{
     font-family:'Open Sans', sans-serif;
-    font-size:1rem;
+    font-size:1.2rem;
 }
 
 .container{
@@ -50,6 +50,7 @@ body{
     margin-left:20px;
     padding:15px 0px;
 }
+
 .foto img{
     width:100%;
     height:auto;
@@ -67,16 +68,5 @@ body{
 
 .tekst p{
     font-family:'Open Sans', sans-serif;
-    font-size: 1rem;
-}
-li{
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1rem;
-    margin-top:0px;
-}
-.link a{
-    text-decoration: none;
-    color:#575757;
-    font-family:'Dela Gothic One', cursive;
-    font-style:italic;
+    font-size: 1.2rem;
 }

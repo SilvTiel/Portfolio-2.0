@@ -17,7 +17,7 @@
     </div>
     
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+    <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>Sprint 1</h1>
             <p>In sprint 1 ben ik bezig geweest met het design voor de website van ELLY. Het doel van de website was om informatie en uitleg te geven over onze producten. Bij het design van de website heb ik gebruik gemaakt van Adobe XD. Nadat ik versie 1 had gemaakt heb ik hier feedback op gevraagd en heb ik deze later in versie 2 verder uitgewerkt.
@@ -60,7 +60,7 @@
                 <p>De volgende keer had ik eerder feedback kunnen vragen en er voor willen zorgen dat ik vaker feedback vraag over waar ik mee bezig ben. Dit om een nog beter proces te krijgen en om zo de kleine dingen te kunnen verbeteren.</p>
             </div>
         </div>
-        <div class="leerdoelTerug"><a href="/ld-design/Portfolio.php">Volgend Project ></a></div>
+        <div class="leerdoelTerug"><a href="/ld-media/medSprintX.php">Volgend Project ></a></div>
     </div>
 
 </body>

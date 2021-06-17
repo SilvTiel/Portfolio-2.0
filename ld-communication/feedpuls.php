@@ -17,7 +17,7 @@
     </div>
 
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+    <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>intro</h1>
             <p>Een belangrijk punt van alles is om feedback te vragen van wat je hebt gemaakt, Dit zorgt ervoor dat iteraties kan laten zien op je werk en dat het er beter op wordt. Dit zorgt ervoor dat je zelf steeds proffesioneleren mag gaan noemen. Ik heb op verschillende manieren feedback gevraagd. Denk hierbij aan docenten, mede leerlingen en mensen van buiten af.</p>
@@ -43,7 +43,7 @@
                 <p>In het begin hield ik de feedback goed bij en vulde ik elke week in wat ik afgelopen weeek had gedaan maar hoe verder ik dit semester kwam hoe minder ik er rekening mee heb gehouden en hoe minder ik het heb ingevuld.</p>
             </div>
         </div>
-        <div class="leerdoelTerug"><a href="/ld-communication/feedpuls.php">Volgend Project ></a></div>
+        <div class="leerdoelTerug"><a href="/ld-communication/comSprintX.php">Volgend Project ></a></div>
     </div>
 
 </body>

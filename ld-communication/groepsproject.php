@@ -19,7 +19,7 @@
     
 
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+        <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>intro</h1>
             <p>In semester 2 zijn we het grootste gedeelde van de tijd bezig geweest met het project. Bij dit project werden je in groepen van 4 verdeeld en ging je een opdracht voor de opdractgever verzinnen en uitwerken. Onze opdrachtgever was Glamorous Goat, deze stelde voor om een prototype te ontwikkelen voor een wearable met een app eraan voor bijvoorbeeld de telefoon.</p>

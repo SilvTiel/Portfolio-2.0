@@ -17,7 +17,7 @@
     </div>
     
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+    <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>Sprint 1</h1>
             <p>In sprint 1 ben ik bezig geweest met het design voor de website van ELLY. Het doel van de website was om informatie en uitleg te geven over onze producten. Bij het design van de website heb ik gebruik gemaakt van Adobe XD. De website bestaat uit verschillende pagina’s die te maken hebben met ons product. Denk hierbij aan de app en de bril.
@@ -63,7 +63,7 @@
 
             </div>
         </div>
-        <div class="leerdoelTerug"><a href="/ld-design/Portfolio.php">Volgend Project ></a></div>
+        <div class="leerdoelTerug"><a href="/ld-design/desSprintX.php">Volgend Project ></a></div>
     </div>
 
 </body>

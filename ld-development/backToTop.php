@@ -17,7 +17,7 @@
     </div>
     
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+    <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>Intro</h1>
             <p>Bij back to top ben ik gaan kijken hoe ik een knop kon creëren die er pas komt te staan wanneer je eenmaal een deel naar beneden bent gescrolld.</p>
@@ -43,7 +43,7 @@
             
         </div>
             
-        <div class="leerdoelTerug"><a href="/ld-development/json.php">Volgend Project ></a></div>
+        <div class="leerdoelTerug"><a href="/leerdoelen/media.php">Volgende Leeruitkomst Interactieve Media></a></div>
     </div>
 
 </body>

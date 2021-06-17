@@ -17,7 +17,7 @@
     </div>
     
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+    <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>Intro</h1>
             <p>Voor sprint X ben ik gaan kijken wat ik belangrijk vond om in de app te hebben, doormiddel van feedback van gebruikers heb ik het zo aangepast dat het design op hun aansluit. Doormiddel van pen en papier en adobe XD heb ik mijn eerste ontwerp neergezet.
@@ -54,7 +54,7 @@
                 <img src="/afbeeldingen/design/adobe-versie2.png">
             </div>
         </div>
-        <div class="leerdoelTerug"><a href="/ld-design/Portfolio.php">Volgend Project ></a></div>
+        <div class="leerdoelTerug"><a href="/leerdoelen/development.php">Volgende Leeruitkomst Development ></a></div>
     </div>
 
 </body>

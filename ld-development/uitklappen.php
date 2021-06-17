@@ -17,7 +17,7 @@
     </div>
     
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+    <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>intro</h1>
             <p>Ik ben bezig geweest met een kleine POC voor de leeruitkomsten pagina om een stukje tekst uit te kunnen klappen om dan hierover meer te kunnen lezen. En als je dan nog benieuwd was kon je op de knop drukken om vervolgens naar de pagina te gaan waar dan weer meer uitleg staat.</p>
@@ -62,7 +62,7 @@
                 <p>Omdat ik vergeten was vanaf begin gebruik te maken van GIT is deze GIT niet goed bijgehouden maar heb ik wel een eindversie ervan op GIT gezet: <a href="https://github.com/SilvTiel/uitklappen-van-Div" target="blank">Zie Hier.</a></p>
             </div>
             
-        <div class="leerdoelTerug"><a href="/ld-development/json.php">Volgend Project ></a></div>
+        <div class="leerdoelTerug"><a href="/ld-development/backToTop.php">Volgend Project ></a></div>
     </div>
 
 </body>

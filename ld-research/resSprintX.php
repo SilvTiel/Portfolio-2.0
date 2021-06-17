@@ -17,11 +17,12 @@
     </div>
     
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+    <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>Intro</h1>
             <p>Voor Sprint X heb ik op verschillende manieren research gedaan. Deze research is gedaan doormiddel van het DOT-Framenwork en de CMD-methods.
             </p>
+            <div class="link"> <a href="/bijlage/Research-SprintX.pdf" target="blank"> > BEKIJK DOCUMENT</a></div>
         </div>
         <div class="container">
             <div class="tekst left">
@@ -59,7 +60,7 @@
                 <p>De volgende keer kan ik betere interview vragen verzinnen, de vragen die ik nu had waren niet duidelijk waardoor er andere antwoorden kwamen dan dat ik graag had gezien.</p>
             </div>
         </div>
-        <div class="leerdoelTerug"><a href="/ld-design/Portfolio.php">Volgend Project ></a></div>
+        <div class="leerdoelTerug"><a href="/leerdoelen/identity.php">Volgende Leeruitkomst Professional Identity ></a></div>
     </div>
 
 </body>

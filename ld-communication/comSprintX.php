@@ -17,7 +17,7 @@
     </div>
 
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+    <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>intro</h1>
             <p>Tijdens sprint X wou ik een zo goed mogelijk product neerzetten op basis van de feedback van gebruikers. Dit heb ik gedaan doormiddel van een paar interviews en User Tests. Ook ben ik regelmatig bij mijn begeleider langs geweest om te vragen voor feedback.</p>
@@ -62,7 +62,7 @@
             </div> -->
             
         </div>
-        <div class="leerdoelTerug"><a href="/ld-communication/feedpuls.php">Volgend Project ></a></div>
+        <div class="leerdoelTerug"><a href="/leerdoelen/design.php">Volgende Leeruitkomst Design ></a></div>
     </div>
 
 </body>

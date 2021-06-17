@@ -21,14 +21,28 @@
     <div class="row">
         <div class="column left">
             <div class="tekst">
-                <h1>ELLY website</h1>
-                <p>Voor ons project ben ik bezig geweest met het design van de website. Voor dit design ben ik gaan kijken naar de doelgroep die wij aanspreken en waarvoor de website hoort te dienen. Nadat mijn eerste versie af was heb ik om feedback gevraagd en heb ik deze toegepast op de website.</p>
+                <h1>Goose Island</h1>
+                <p>Voor mijn documentatie van Goose Island ben ik gaan kijken naar de huisstyle van Goose Island en heb ik deze op mijn manier proberen te interprenteren als design.</p>
                 <div class="knop">
-                    <div class="button" onclick="window.location.href='/ld-design/ELLY.php'">Bekijk project</div>
+                    <div class="button" onclick="window.location.href='/ld-design/GooseIsland.php'">Bekijk project</div>
+                </div>
+                
+            </div>
+            <div class="img">
+                <img src="/afbeeldingen/gooseIsland/goose1.0.png">
+            </div>
+        </div>
+
+        <div class="column middle">
+            <div class="tekst">
+                <h1>Video</h1>
+                <p>Voor sprint X moest ik een video maken om te laten zien. Hiervan heb ik een video gemaakt die in 70 seconden een beetje uitlegt waar mijn app voor bedoeld is.</p>
+                <div class="knop">
+                    <div class="button" onclick="window.location.href='/ld-design/video.php'">Bekijk project</div>
                 </div>
             </div>
             <div class="img">
-                <img src="/afbeeldingen/ELLY/hp1.png">
+                <img src="/afbeeldingen/uitwerking1.png">
             </div>
         </div>
 
@@ -47,20 +61,19 @@
     </div>
         
     <div class="row">
-
-        <div class="column left">
+    <div class="column left">
             <div class="tekst">
-                <h1>Goose Island</h1>
-                <p>Bij branding ben ik gaan kijken wat Goose Island is en ben ik hierbij gaan kijken naar het bedrijf hierbij heb ik een bestand gemaakt en heb ik geprobeerd om het bestand om die van Goose Island te laten lijken naar mijn mening.</p>
+                <h1>ELLY website</h1>
+                <p>Voor ons project ben ik bezig geweest met het design van de website. Voor dit design ben ik gaan kijken naar de doelgroep die wij aanspreken en waarvoor de website hoort te dienen. Nadat mijn eerste versie af was heb ik om feedback gevraagd en heb ik deze toegepast op de website.</p>
                 <div class="knop">
-                    <div class="button" onclick="window.location.href='/ld-design/GooseIsland.php'">Bekijk project</div>
+                    <div class="button" onclick="window.location.href='/ld-design/ELLY.php'">Bekijk project</div>
                 </div>
-                
             </div>
             <div class="img">
-                <img src="/afbeeldingen/gooseIsland/goose1.0.png">
+                <img src="/afbeeldingen/ELLY/hp1.png">
             </div>
         </div>
+        
         <div class="column right">
             <div class="tekst">
                 <h1>Sprint X</h1>

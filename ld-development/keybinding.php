@@ -17,7 +17,7 @@
     </div>
     
     <div class="main">
-        <div class="leerdoelTerug"><a href="/leeruitkomsten.php">< Terug naar Leeruitkomsten</a></div>
+    <div class="leerdoelTerug"><a href="/index.php#leeruitkomsten">< Terug naar Leeruitkomsten</a></div>
         <div class="intro">
             <h1>intro</h1>
             <p>Bij Keybinding ben ik bezig geweest met opdrachten op de keys van een toetsenbord te zetten. Denk hierbij aan Geluid op de W toets of bij Y de kleur die verandert.</p>
@@ -54,7 +54,7 @@
             
         </div>
             
-        <div class="leerdoelTerug"><a href="/ld-development/json.php">Volgend Project ></a></div>
+        <div class="leerdoelTerug"><a href="/leerdoelen/media.php">Volgende Leeruitkomst Interactieve Media></a></div>
     </div>
 
 </body>
