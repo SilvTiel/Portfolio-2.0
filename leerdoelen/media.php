@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>SvT Interactieve Media</title>
     <link rel="stylesheet" href="leerdoelen.css">
     <link rel="stylesheet" href="/style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -48,7 +48,20 @@
         
     <div class="row">
 
-        <div class="column left">
+    <div class="column left">
+            <div class="tekst">
+                <h1>Storytelling</h1>
+                <p>Bij de keuzemodules heb ik gekozen voor storytelling hierbij is de bedoeling dat je een verhaal inleverd die op een of andere manier verbeeld is met een applicatie.</p>
+                <div class="knop">
+                    <div class="button" onclick="window.location.href='/ld-media/storytelling.php'">Bekijk project</div>
+                </div>
+            </div>
+            <div class="img">
+                <img src="/afbeeldingen/">
+            </div>
+        </div>
+
+        <div class="column right">
             <div class="tekst">
                 <h1>Portolio</h1>
                 <p>Voor mijn portfolio ben ik eerst begonnen met een design. Hierbij heb ik een aantal keuzes gemaakt en hierbij om feedback gevraagd.</p>

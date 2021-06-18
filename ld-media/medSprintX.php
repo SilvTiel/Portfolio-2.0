@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SvT ELLY design</title>
+    <title>SvT Sprint X</title>
     <link rel="stylesheet" href="/style.css">
     <link rel="stylesheet" href="/ld-media/medSprintX.css"> 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -72,7 +72,7 @@
                 <p>Volgende keer kon ik mijn tijd voor Sprint X beter opdelen waardoor ik nog een versie had kunnen maken hierop waardoor de toekomst plannen die ik nu heb staan er niet te hoeven staan.</p>
             </div>
         </div>
-        <div class="leerdoelTerug"><a href="/ld-media/mediaPortfolio.php">Volgend Project ></a></div>
+        <div class="leerdoelTerug"><a href="/ld-media/storytelling.php">Volgend Project ></a></div>
     </div>
 
 </body>

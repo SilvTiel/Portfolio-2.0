@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SvT Rock paper scissors</title>
+    <title>SvT Back To Top</title>
     <link rel="stylesheet" href="/style.css">
     <link rel="stylesheet" href="/ld-development/backToTop.css"> 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -43,7 +43,7 @@
             
         </div>
             
-        <div class="leerdoelTerug"><a href="/leerdoelen/media.php">Volgende Leeruitkomst Interactieve Media></a></div>
+        <div class="leerdoelTerug"><a href="/ld-development/keybinding.php">Volgend Project ></a></div>
     </div>
 
 </body>

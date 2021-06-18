@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>SvT Professional Identity</title>
     <link rel="stylesheet" href="leerdoelen.css">
     <link rel="stylesheet" href="/style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -14,7 +14,7 @@
 
     <div class="intro">
         <?php include("../navigatie.html");?>
-        <div class="tekst-intro">Profesional Identity</div>
+        <div class="tekst-intro">Professional Identity</div>
     </div>
     <div class="head">
     <div class="row">

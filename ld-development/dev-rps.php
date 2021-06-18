@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SvT Rock paper scissors</title>
+    <title>SvT Steen Papier Schaar</title>
     <link rel="stylesheet" href="/style.css">
     <link rel="stylesheet" href="/ld-development/dev-rps.css"> 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -13,7 +13,7 @@
 <body>
     <div class="header">
         <?php include('../navigatie.html');?>
-        <div class="tekst-intro">Rock paper scissors</div>
+        <div class="tekst-intro">Steen Papier Schaar</div>
     </div>
     
     <div class="main">

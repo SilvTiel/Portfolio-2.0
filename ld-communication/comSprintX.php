@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SvT Feedback</title>
+    <title>SvT Sprint X</title>
     <link rel="stylesheet" href="/style.css">
     <link rel="stylesheet" href="/ld-communication/comSprintX.css"> 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -24,7 +24,7 @@
         </div>
         <div class="container">
             <div class="tekst left">
-                <h1>Intervieuws</h1>
+                <h1>Interviews</h1>
                 <p>Aan het begin van Sprint X heb ik vragen bedacht die ik aan een aantal mensen heb gevraagd, deze vragen gingen vooral over verschillende apps die nu op de markt waren die te maken hadden met mijn Sprint X idee. Hierbij ging het over de apps die iets te maken hebben met het maken van teams en apps die als scoreboard dienen ook wel het online turven genoemd. Hierbij heb ik een aantal antwoorden gekregen waar ik iets mee kon en heb ik deze ook proberen te verwerken in mijn eigen Sprint X idee. </p>
             </div>
             <div class="foto right">
